@@ -14,17 +14,9 @@
   --nav-color: #ff00cc;
   --section-title-color: #ff0070;
   --button-border-color: #ff0070;
+  --hover-color: #FF007066;
 }
 
 .theme-dark .header__rec {
   display: inline;
-}
-
-.theme-dark .decorated-zone::before,
-.theme-dark .decorated-zone::after {
-  border-color: var(--nav-color);
-}
-
-.theme-dark .header__theme-menu-button {
-  color: var(--decor-color);
 }
